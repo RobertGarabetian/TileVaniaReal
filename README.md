@@ -6,4 +6,4 @@ There are 9 different levels and choosing to start the game on easy difficulty w
 choosing medium difficulty will start you at level 3, and hard difficulty will start you at level 6.
 
 Here is the link to play the game! It is far from perfect but it was a lot of fun to build and a great first programming experiance!
-https://play.unity.com/mg/other/new-folder-3821
+https://play.unity.com/en/games/682e26af-005e-4876-8d9b-9acde277b919/cave-explorer
